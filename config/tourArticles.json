@@ -1,0 +1,27 @@
+{
+    "articles": [
+        {
+            "key": 1,
+            "src": "/images/tour/como_bw.jpg",
+            "title":"Place to visit",
+            "body": " Lake Como is the main attraction of the city. On the shore there are numerous boats that offer a tour service of the lake. But even a simple walk is excellent for admiring it and being overwhelmed by its suggestion. The cathedral of Santa Maria Assunta, located in the center, is the main monument of the city. Its construction dates back to 1396 and can be visited for free. A few minutes from the lake, a few steps will be enough to get to admire it."
+        },
+        {
+            "src": "/images/tour/myhomecomo.png",
+            "title": "Do you need a place to sleep?",
+            "body": "My Home in Como offers you the possibility to choose where to stay on the lake. With over 60 structures available, you can choose the one that's right for you. Once you arrive in the city, we at Back Parking will be able to take you directly to your accommodation with a free pick-up service and assist you in storing your luggage while waiting for check-in or once you have checked-out. We can also offer you a transfer back service once your stay is over."
+        },
+        {
+            "src": "/images/tour/luggage_2.jpg",
+            "title": "Different ways to move around the city",
+            "body": "Here are some useful numbers: Taxi: +39 031 26.15.15, Guided tours: 338 200 46 70"
+        },
+        {
+            "src": "/images/tour/luggage_2.jpg",
+            "title": "Cable railway",
+            "body": "The Como-Brunate funicular connects the two Lombard municipalities. The arrival/departure station is located in Piazza A. De Gasperi. The journey takes seven minutes and the service runs every day from 6:00 to 22:30 (on Saturdays and in the summer extended shift until 24:00), with departures as a rule every half hour. One-way tickets cost 3.10, while return tickets cost 5.70. Rates are reduced to 2.10 and 3.30 for children up to 12 years. Once in Brunate it is possible to admire the lake from above and go on excursions on foot or by bike and admire the lake from all its perspectives."
+        }
+
+        
+    ]
+}

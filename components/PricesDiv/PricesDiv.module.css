@@ -1,0 +1,60 @@
+.prices_div {
+    display: flex;
+    justify-content: center;
+    background-color: #242222;
+    flex-direction: column;
+    text-align: center;
+}
+
+.prices_div h3 {
+    margin: 3rem;
+}
+
+.prices_options_div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.prices_options_div h4 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.prices_options {
+    border: 2px solid #faaf45;
+    width: 325px;
+    padding: 2rem;
+    border-radius: 16px;
+    text-align: left;
+    position: relative;
+}
+
+.prices_options h4, .prices_options p {
+    color: #fff;
+}
+
+
+
+.ul {
+    padding: 0;
+    min-height: 13rem;
+}
+
+.ul li {
+    color: #fff;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.van_img {
+    width: 20%;
+    height: auto;
+    position: absolute;
+    top: -8.96%;
+    right: 3%;
+}
